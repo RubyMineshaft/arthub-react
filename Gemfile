@@ -44,7 +44,7 @@ gem 'jquery-rails'
 
 gem 'open_uri_redirections'
 
-gem 'omniauth', '1.9.0'
+gem 'omniauth', '1.9.2'
 
 gem 'omniauth-facebook'
 
